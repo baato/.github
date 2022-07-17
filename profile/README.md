@@ -1,0 +1,1 @@
+Baato is a geospatial company based in Nepal. We provide cloud based geospatial services for developers and businesses in Nepal. We offer maps-based APIs, Vehicle Routing Solutions, and Real-time tracking solutions.
